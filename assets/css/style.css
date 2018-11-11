@@ -1,0 +1,65 @@
+#header {
+	padding: 1%;
+    border-style: solid;
+    background-color: rgb(196, 98, 196);
+    color: black;
+    border-width: 3%;
+    border-radius: 9px;
+    margin-right: 79%;
+    font-family: 'Carter One', cursive;
+    font-size: 210%;
+}
+
+#gifLabel {
+
+	padding: 1%;
+    border-style: solid;
+    background-color: rgb(196, 98, 196);
+    color: black;
+    border-width: 3%;
+    border-radius: 9px;
+    margin-right: 70%;
+    font-family: 'Carter One', cursive;
+    font-size: 137%;
+}
+
+
+
+body {
+
+	background-image: url("https://images2.minutemediacdn.com/image/upload/c_scale,w_912,h_516,c_fill,g_auto/shape/cover/sport/57715f92bfa3d2ac60000001.png");
+}
+
+.item {
+
+	float: left;
+	margin: 30px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1%;
+	background-color: white;
+}
+
+.rating {
+
+	font-weight: bold;
+	margin-top: 15px; 
+	font-family: 'Carter One', cursive;
+	font-size: 15px;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+
+
+button {
+
+	font-size: 20px;
+	padding: 10px;
+	background-color: rgb(196, 98, 196);
+	border-style: solid;
+	border-width: 7%;
+	border-color: black;
+	border-radius: 5px;	
+	font-family: 'Carter One', cursive;
+}
